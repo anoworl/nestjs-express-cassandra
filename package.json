@@ -1,5 +1,5 @@
 {
-  "name": "@iaminfinity/express-cassandra",
+  "name": "@anoworl/nestjs-express-cassandra",
   "version": "6.0.0",
   "description": "Nest - modern, fast, powerful node.js web framework (@express-cassandra)",
   "author": {
